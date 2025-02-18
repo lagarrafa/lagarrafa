@@ -7,7 +7,7 @@ This repository serves as a structured log of my continuous learning and hands-o
 - **Operating Systems:** Windows Server, Linux (Ubuntu, CentOS, Debian)
 - **Virtualization:** VMware ESXi, VirtualBox
 - **Networking:** TCP/IP, VLANs, DHCP, DNS, Firewall Configuration
-- **Storage:** RAID, LVM, NAS, SAN
+- **Storage:** RAID, NAS, SAN
 - **Scripting & Automation:** Bash, PowerShell
 - **System Troubleshooting:** Performance monitoring, log analysis, debugging
 
