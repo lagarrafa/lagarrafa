@@ -22,6 +22,14 @@ This section documents technical exercises, configurations, and troubleshooting 
 - 🔍 Practiced basic and intermediate Linux commands, including file system navigation, process management, and user permissions.
 - 🛑 Diagnosed and resolved initial connectivity issues with Ubuntu VM.
 
+**Date:** 2025-02-18
+- 🛠 Installed GNS3 and deployed a Cisco router for training purposes and troubleshooting.
+- 🛡️ Practiced network troubleshooting commands:
+  - `ping <destination>` to test connectivity.
+  - `traceroute <destination>` (Linux) or `tracert <destination>` (Windows) to analyze packet paths.
+  - `netstat -an` to display active network connections.
+  - `mtu` adjustments to troubleshoot fragmentation issues.
+    
 _(Entries will be updated weekly to reflect ongoing progress.)_
 
 ## 📂 Repository Structure
