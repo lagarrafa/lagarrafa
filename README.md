@@ -4,12 +4,14 @@
 This repository serves as a structured log of my continuous learning and hands-on practice in IT, focusing on system administration, networking, virtualization, and troubleshooting. The goal is to enhance my technical expertise and document real-world problem-solving approaches.
 
 ## 🖥️ Technical Proficiencies
-- **Operating Systems:** Windows Server, Linux (Ubuntu, CentOS, Debian)
-- **Virtualization:** VMware ESXi, VirtualBox
-- **Networking:** TCP/IP, VLANs, DHCP, DNS, Firewall Configuration
-- **Storage:** RAID, NAS, SAN
-- **Scripting & Automation:** Bash, PowerShell
-- **System Troubleshooting:** Performance monitoring, log analysis, debugging
+- **Operating Systems:** Windows Server, Linux (Ubuntu, CentOS, Debian)  
+- **Virtualization:** VMware ESXi, VirtualBox  
+- **Networking:** TCP/IP, VLANs, DHCP, DNS, Firewall Configuration  
+- **Firewall:** Configuration, management, and security policies  
+- **Load Balancing:** Application and network load balancing strategies  
+- **Storage:** RAID, NAS, SAN  
+- **Scripting & Automation:** Bash, PowerShell  
+- **System Troubleshooting:** Performance monitoring, log analysis, debugging 
 
  <details>
   <summary><strong>📜 Courses and Certifications</strong></summary>
