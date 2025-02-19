@@ -6,7 +6,7 @@ This repository serves as a structured log of my continuous learning and hands-o
 ## 🖥️ Technical Proficiencies
 - **Operating Systems:** Windows Server, Linux (Ubuntu, CentOS, Debian)  
 - **Virtualization:** VMware ESXi, VirtualBox  
-- **Networking:** TCP/IP, VLANs, DHCP, DNS, Firewall Configuration  
+- **Networking:** TCP/IP, VLANs, DHCP, DNS
 - **Firewall:** Configuration, management, and security policies  
 - **Load Balancing:** Application and network load balancing strategies  
 - **Storage:** RAID, NAS, SAN  
