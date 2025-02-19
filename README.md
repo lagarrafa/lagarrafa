@@ -63,6 +63,38 @@ This section documents technical exercises, configurations, and troubleshooting 
   - `traceroute <destination>` (Linux) or `tracert <destination>` (Windows) to analyze packet paths.
   - `netstat -an` to display active network connections.
   - `mtu` adjustments to troubleshoot fragmentation issues.
+ 
+**Date:** 2025-02-19
+
+💾 Virtual Machine & Windows Installation:
+
+- Created a Windows 10 VM in VirtualBox.
+- Allocated 4GB RAM, 2 vCPUs, and 50GB dynamic disk.
+- Installed Windows 10 and configured initial settings.
+  
+🖴 Storage & RAID 5 Configuration (via Windows Disk Management GUI):
+- Created three virtual disks (10GB each) in VirtualBox.
+- Launched Disk Management (diskmgmt.msc) and initialized disks as GPT.
+- Formatted disks with NTFS.
+- Created RAID 5 volume using the Disk Management GUI:
+- Right-clicked unallocated space → New RAID-5 Volume.
+- Selected the three disks and assigned a drive letter.
+- Configured NTFS formatting with default allocation size.
+- Verified RAID 5 was correctly built and accessible.
+
+📄 Testing RAID 5:
+- Created and saved document.txt on the RAID volume.
+
+❌ Simulating Disk Failure:
+- Removed one disk from VirtualBox (Settings → Storage → Remove Disk).
+- Observed RAID degradation in Disk Management (Status: Failed Redundancy).
+
+🔄 RAID Recovery:
+- Added a new virtual disk to VirtualBox.
+- Initialized and formatted the new disk using Disk Management.
+- Replaced the failed disk in the RAID 5 array via the GUI.
+- Monitored RAID rebuild process until redundancy was restored.
+
     
 _(Entries will be updated weekly to reflect ongoing progress.)_
 
