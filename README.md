@@ -11,6 +11,38 @@ This repository serves as a structured log of my continuous learning and hands-o
 - **Scripting & Automation:** Bash, PowerShell
 - **System Troubleshooting:** Performance monitoring, log analysis, debugging
 
+ <details>
+  <summary><strong>📜 Courses and Certifications</strong></summary>
+
+  ### 🏆 Completed  
+  - **ITIL® Foundation Certificate in IT Service Management**  
+    - *AXELOS Global Best Practice*  
+    - Credential ID: **GR750272269LG**  
+
+  - **ITIL® 4 Foundation**  
+    - *Pink Elephant*  
+
+  - **ONTAP 9.3 Cluster Administration**  
+    - *NetApp*  
+    - Credential ID: **STRSW-ILT-ONTAPADM**  
+    - Class ID: **361850**  
+
+  - **Storage System Recovery & Troubleshooting for Partners (SSRTS)**  
+    - *NetApp*  
+    - Class ID: **360749**  
+
+  - **VMware vSphere: Install, Configure, Manage [V6.7]**  
+    - *VMware*  
+    - Class ID: **359310**  
+
+
+  ### 🎯 In Progress  
+  
+
+  *(More courses and certifications will be added as I progress!)*  
+
+</details>
+
 ## 📅 Learning Log
 This section documents technical exercises, configurations, and troubleshooting steps undertaken.
 
@@ -42,6 +74,8 @@ _(Entries will be updated weekly to reflect ongoing progress.)_
  ├── 📁 networking/      # Network configurations, firewall rules, and tools
  ├── 📁 storage/         # Disk management, RAID setups, backup strategies
 ```
+
+
 
 ## 📡 Contact & Networking
 - 📧 Email: [leonel_g@hotmail.com]
