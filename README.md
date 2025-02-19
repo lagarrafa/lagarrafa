@@ -45,6 +45,25 @@ This repository serves as a structured log of my continuous learning and hands-o
 
 </details>
 
+<details>
+  <summary>💼 Work Experience</summary>
+
+### 🏢 IT Hardware Asset Management – NTT DATA Europe & Latam  
+
+### 🏢 Senior Team Leader – NTT Ltd.  
+
+### 🏢 Senior Infrastructure Analyst – NTT Ltd.  
+
+### 🏢 Infrastructure Analyst – Accenture Technology Solutions  
+
+### 🏢 Data Centre Operator – Lenovo  
+
+### 🏢 Tier 2 Support & Training – Microsoft  
+
+</details>
+
+
+
 ## 📅 Learning Log
 This section documents technical exercises, configurations, and troubleshooting steps undertaken.
 
